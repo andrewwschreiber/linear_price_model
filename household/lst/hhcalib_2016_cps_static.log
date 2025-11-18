@@ -1,0 +1,323 @@
+--- Job hhcalib Start 09/25/24 15:18:27 41.2.0 5110e5ff WEX-WEI x86 64bit/MS Windows
+--- Applying:
+    C:\PROGRA~1\GAMS\41.2\gmsprmNT.txt
+--- GAMS Parameters defined
+    Input C:\Users\ASchreib\git\CGE\build\data\windc_build\household\hhcalib.gms
+    Output C:\Users\ASchreib\git\CGE\build\data\windc_build\household\lst\hhcalib_2016_cps_static.lst
+    ScrDir C:\Users\ASchreib\git\CGE\build\data\windc_build\household\225b\
+    SysDir C:\PROGRA~1\GAMS\41.2\
+    LogOption 4
+    LogFile C:\Users\ASchreib\git\CGE\build\data\windc_build\household\lst\hhcalib_2016_cps_static.log
+    --year 2016
+    --hhdata cps
+    --invest static
+    --capital_ownership all
+    --gr 0.02
+    --ir 0.04
+    --delta 0.05
+    --puttitle no
+Licensee: Small MUD-5 User License                       G221114|0002CO-WIN
+          U. S. EPA, Office of Air Quality Planning and StandardsDC15048-S4
+          C:\Users\ASchreib\OneDrive - Environmental Protection Agency (EPA)\Documents\GAMS\gamslice.txt
+          License Admin: Alexander Macpherson, macpherson.alex@epa.gov     
+Processor information: 1 socket(s), 4 core(s), and 8 thread(s) available
+GAMS 41.2.0   Copyright (C) 1987-2022 GAMS Development. All rights reserved
+--- Starting compilation
+--- hhcalib.gms(104) 2 Mb
+--- . windc_coredata.gms(26) 2 Mb
+--- GDXin=C:\Users\ASchreib\git\CGE\build\data\windc_build\core\WiNDCdatabase.gdx
+--- GDX File ($gdxIn) C:\Users\ASchreib\git\CGE\build\data\windc_build\core\WiNDCdatabase.gdx
+--- . windc_coredata.gms(160) 226 Mb
+--- hhcalib.gms(129) 226 Mb
+--- GDXin=C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\capital_tax_rates.gdx
+--- GDX File ($gdxIn) C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\capital_tax_rates.gdx
+--- hhcalib.gms(171) 226 Mb
+--- GDXin=C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\cps_data.gdx
+--- GDX File ($gdxIn) C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\cps_data.gdx
+--- hhcalib.gms(191) 230 Mb
+--- GDXin=C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\labor_tax_rates_tl_avg.gdx
+--- GDX File ($gdxIn) C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\labor_tax_rates_tl_avg.gdx
+--- hhcalib.gms(193) 230 Mb
+--- GDXin=C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\labor_tax_rates_tl.gdx
+--- GDX File ($gdxIn) C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\labor_tax_rates_tl.gdx
+--- hhcalib.gms(195) 230 Mb
+--- GDXin=C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\labor_tax_rates_tfica.gdx
+--- GDX File ($gdxIn) C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\labor_tax_rates_tfica.gdx
+--- hhcalib.gms(307) 230 Mb
+--- call csv2gdx ../data/household/cps/cps_vs_nipa_income_categories.csv output=gdx/cps_vs_nipa_income_categories.gdx id=cps_nipa index="(1,5)" useHeader=y value=4
+--- hhcalib.gms(308) 230 Mb
+--- GDXin=C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\cps_vs_nipa_income_categories.gdx
+--- GDX File ($gdxIn) C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\cps_vs_nipa_income_categories.gdx
+--- hhcalib.gms(382) 230 Mb
+--- call csv2gdx "../data/household/health_care/public_health_benefits_2009_2019.csv" id=health_care_transfers useheader=yes index="(1,2,3)" values="(4,5)" output="gdx/public_health_benefits.gdx"
+--- hhcalib.gms(383) 230 Mb
+--- GDXin=C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\public_health_benefits.gdx
+--- GDX File ($gdxIn) C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\public_health_benefits.gdx
+--- hhcalib.gms(505) 230 Mb
+--- call csv2gdx ../data/household/cps/windc_vs_nipa_domestic_capital.csv output=gdx/windc_vs_nipa_domestic_capital.gdx id=cap_own0_ index="(1)" useHeader=y value=4
+--- hhcalib.gms(506) 230 Mb
+--- GDXin=C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\windc_vs_nipa_domestic_capital.gdx
+--- GDX File ($gdxIn) C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\windc_vs_nipa_domestic_capital.gdx
+--- hhcalib.gms(575) 230 Mb
+--- call csv2gdx ../data/household/acs/acs_commuting_data.csv output=gdx/acs_commuting_data.gdx id=commute0 index="(1,2)" useHeader=y value=3
+--- hhcalib.gms(576) 230 Mb
+--- GDXin=C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\acs_commuting_data.gdx
+--- GDX File ($gdxIn) C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\acs_commuting_data.gdx
+--- hhcalib.gms(930) 230 Mb
+--- call csv2gdx ../data/household/cex/national_income_elasticities_CEX_2013_2017.csv output=gdx/national_income_elasticities_CEX_2013_2017.gdx id=regres index=1 useHeader=y value=2,3,4
+--- hhcalib.gms(931) 230 Mb
+--- GDXin=C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\national_income_elasticities_CEX_2013_2017.gdx
+--- GDX File ($gdxIn) C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\national_income_elasticities_CEX_2013_2017.gdx
+--- hhcalib.gms(937) 230 Mb
+--- call csv2gdx ../data/household/cex/windc_pce_map.csv output=gdx/windc_pce_map.gdx id=pcebridge index=1,2 useHeader=y value=3,4,5
+--- hhcalib.gms(938) 230 Mb
+--- GDXin=C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\windc_pce_map.gdx
+--- GDX File ($gdxIn) C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\windc_pce_map.gdx
+--- hhcalib.gms(1050) 230 Mb
+--- Starting execution: elapsed 0:00:03.151
+--- hhcalib.gms(912) 243 Mb
+--- Generating NLP model calib_step2_cps
+--- hhcalib.gms(917) 253 Mb
+---   2,145 rows  14,793 columns  137,448 non-zeroes
+---   30,533 nl-code  13,515 nl-non-zeroes
+--- Range statistics (absolute non-zero finite values)
+--- RHS       [min, max] : [ 1.722E+01, 5.739E+03] - Zero values observed as well
+--- Bound     [min, max] : [ 1.603E-03, 3.990E+02] - Zero values observed as well
+--- Matrix    [min, max] : [ 5.834E-04, 9.918E+02] - Zero values observed as well
+--- hhcalib.gms(917) 251 Mb
+--- Executing CONOPT (Solvelink=2): elapsed 0:00:04.648
+
+CONOPT 3         41.2.0 5110e5ff Nov 14, 2022          WEI x86 64bit/MS Window
+
+*** WARNING: Memory Limit for Hessians exceeded. You can use the Conopt option "rvhess".
+ 
+ 
+    C O N O P T 3   version 3.17N
+    Copyright (C)   ARKI Consulting and Development A/S
+                    Bagsvaerdvej 246 A
+                    DK-2880 Bagsvaerd, Denmark
+ 
+ 
+   Iter Phase Ninf   Infeasibility   RGmax    NSB   Step InItr MX OK
+      0   0        3.9192121842E+04 (Input point)
+ 
+                   Pre-triangular equations:   0
+                   Post-triangular equations:  851
+                   Definitional equations:     65
+ 
+      1   0        3.3333223308E+04 (After pre-processing)
+      2   0        3.5882845312E+02 (After scaling)
+      3   0   135  3.5127677814E+02               2.1E-02      T  T
+      4   0   135  3.3714157842E+02               4.0E-02      T  T
+      5   0   135  3.3686573864E+02               8.2E-04      T  T
+      6   0   135  3.3522337449E+02               4.9E-03      T  T
+      7   0   135  3.3337592817E+02               5.5E-03      T  T
+      8   0   135  3.2380932701E+02               2.9E-02      T  T
+      9   0   135  3.2301147985E+02               2.5E-03      T  T
+ 
+   Iter Phase Ninf   Infeasibility   RGmax    NSB   Step InItr MX OK
+     10   0   135  3.2222723612E+02               2.4E-03      T  T
+     11   0   135  3.2162204953E+02               1.9E-03      T  T
+     12   0   135  3.2157423632E+02               1.5E-04      T  T
+     13   0   135  3.1091033829E+02               3.3E-02      T  T
+     14   0   135  3.0314700501E+02               2.5E-02      T  T
+     15   0   135  2.9940629573E+02               1.2E-02      T  T
+     16   0   135  2.9900930769E+02               1.3E-03      T  T
+     17   0   135  2.9676590029E+02               7.5E-03      T  T
+     18   0   135  2.9592513502E+02               2.8E-03      T  T
+     19   0   135  2.9176582464E+02               1.4E-02      T  T
+ 
+   Iter Phase Ninf   Infeasibility   RGmax    NSB   Step InItr MX OK
+     20   0   135  2.9168460161E+02               2.8E-04      T  T
+     21   0   135  2.9133790246E+02               1.2E-03      T  T
+     22   0   135  2.9013719715E+02               4.1E-03      T  T
+     23   0   135  2.8959804333E+02               1.9E-03      T  T
+     24   0   135  2.8923013908E+02               1.3E-03      T  T
+     25   0   135  2.8540259633E+02               1.3E-02      T  T
+     26   0   135  2.8486453980E+02               1.9E-03      T  T
+     27   0   135  2.8416686841E+02               2.4E-03      T  T
+     28   0   135  2.8238012725E+02               6.3E-03      T  T
+     29   0   135  2.7085800283E+02               4.1E-02      T  T
+ 
+   Iter Phase Ninf   Infeasibility   RGmax    NSB   Step InItr MX OK
+     30   0   135  2.7083742610E+02               7.6E-05      T  T
+     31   0   135  2.7010324548E+02               2.7E-03      T  T
+     32   0   135  2.6849520158E+02               6.0E-03      T  T
+     33   0   135  2.6748090747E+02               3.8E-03      T  T
+     34   0   135  2.6030521046E+02               2.7E-02      T  T
+     35   0   135  2.5813982185E+02               8.3E-03      T  T
+     36   0   135  2.5323321229E+02               1.9E-02      T  T
+     37   0   135  2.5310365943E+02               5.1E-04      T  T
+     38   0   135  2.5252144566E+02               2.3E-03      T  T
+     39   0   135  2.3190521759E+02               8.2E-02      T  T
+ 
+   Iter Phase Ninf   Infeasibility   RGmax    NSB   Step InItr MX OK
+     40   0   135  2.2942934858E+02               1.1E-02      T  T
+     41   0   135  2.2547056957E+02               1.7E-02      T  T
+     42   0   135  2.2189550494E+02               1.6E-02      T  T
+     43   0   135  2.2130057571E+02               2.7E-03      T  T
+     44   0   135  2.1872387870E+02               1.2E-02      T  T
+     45   0   135  2.1774158308E+02               4.5E-03      T  T
+     46   0   135  2.1116300285E+02               3.0E-02      T  T
+     47   0   135  2.1017264677E+02               4.7E-03      T  T
+     48   0   135  2.1011012035E+02               3.0E-04      T  T
+     49   0   135  1.8520721789E+02               1.2E-01      T  T
+ 
+   Iter Phase Ninf   Infeasibility   RGmax    NSB   Step InItr MX OK
+     50   0   135  1.7061373617E+02               7.9E-02      T  T
+     51   0   135  1.6927839898E+02               7.8E-03      T  T
+     52   0   135  1.5331061397E+02               9.4E-02      T  T
+     53   0   135  1.3175348591E+02               1.4E-01      T  T
+     54   0   135  1.1719098945E+02               1.1E-01      T  T
+     55   0   135  1.1611804527E+02               9.2E-03      T  T
+     56   0   135  9.7361002434E+01               1.6E-01      T  T
+     57   0   135  7.5342204945E+01               2.3E-01      T  T
+     58   0   135  6.7264299598E+01               1.1E-01      T  T
+     59   0   135  6.0218267586E+01               1.0E-01      T  T
+ 
+   Iter Phase Ninf   Infeasibility   RGmax    NSB   Step InItr MX OK
+     60   0   135  1.7978167288E+01               7.0E-01      T  T
+     61   0   135  2.1026659146E-13               1.0E+00      F  T
+ 
+ ** Feasible solution. Value of objective =    126334.213160
+ 
+   Iter Phase Ninf     Objective     RGmax    NSB   Step InItr MX OK
+     62   3        1.1141733003E+05 4.3E+04   402 1.0E+00    1 T  T
+     63   3        6.7935367275E+04 5.5E+04   401 1.0E+00    7 T  T
+     64   3        3.8314320183E+04 9.9E+03   394 1.0E+00    8 T  T
+     65   3        2.7616678087E+04 3.8E+03   386 1.0E+00    8 T  T
+     66   3        2.7009603849E+04 4.8E+03   380 1.8E-01    8 F  T
+     67   3        2.5350316097E+04 2.6E+03   381 1.0E+00    4 T  T
+     68   3        2.4402259514E+04 3.7E+03   377 2.9E-01    3 F  T
+     69   3        2.3639008496E+04 6.3E+03   377 1.0E+00    1 F  T
+     70   3        2.3005210589E+04 5.3E+03   376 2.8E-05      F  T
+     71   3        2.2518724676E+04 3.1E+03   376 2.8E-05      T  T
+ 
+   Iter Phase Ninf     Objective     RGmax    NSB   Step InItr MX OK
+     72   3        2.2243930072E+04 4.7E+03   376 1.5E-05      F  T
+     73   3        2.2013258513E+04 3.0E+03   376 2.8E-05      F  T
+     74   4        2.2013258513E+04 4.6E+03   376 0.0E+00      T  T
+     75   4        2.1322864555E+04 4.6E+03   375 1.1E+00      T  T
+     76   4        2.0827549738E+04 4.6E+03   374 1.1E+00      T  T
+     77   4        2.0772268690E+04 7.7E+02   373 2.5E-01      T  T
+     78   3        2.0219492738E+04 2.1E+03   373 1.1E-04      T  T
+     79   3        1.9932529836E+04 5.5E+03   372 1.1E-05      F  T
+     80   3        1.9694414265E+04 2.0E+03   372 6.7E-05      F  T
+     81   4        1.8577879986E+04 4.2E+03   372 6.8E-02      T  T
+ 
+   Iter Phase Ninf     Objective     RGmax    NSB   Step InItr MX OK
+     82   4        1.8439785730E+04 4.2E+03   371 4.8E-01      T  T
+     83   4        1.8433321156E+04 1.5E+03   370 4.0E-02      T  T
+     84   4        1.8285722632E+04 1.5E+03   369 1.9E+00      F  T
+     85   4        1.8185075461E+04 1.1E+03   369 2.5E+00      F  T
+     86   4        1.7840266132E+04 2.0E+03   370 1.0E+00    2 T  T
+     87   4        1.7230496721E+04 2.1E+03   369 1.0E+00    8 T  T
+     88   4        1.7017424581E+04 5.3E+02   363 1.0E+00   15 T  T
+     89   4        1.5801362999E+04 8.5E+02   357 1.0E+00   19 T  T
+     90   4        1.5551900413E+04 1.1E+02   340 1.0E+00   31 T  T
+     91   4        1.4188150002E+04 4.8E+02   326 1.0E+00   42 T  T
+ 
+   Iter Phase Ninf     Objective     RGmax    NSB   Step InItr MX OK
+     92   4        1.4100259298E+04 8.2E+02   303 1.0E+00   48 T  T
+     93   4        1.2117672249E+04 2.3E+02   318 1.0E+00   57 T  T
+     94   4        1.1152111962E+04 1.3E+02   318 1.0E+00   61 T  T
+     95   4        1.0660935024E+04 8.3E+01   320 1.0E+00   65 T  T
+     96   4        1.0184355944E+04 9.2E+01   322 1.0E+00   78 T  T
+     97   4        9.9705958957E+03 1.1E+02   305 1.0E+00   67 T  T
+     98   4        9.9252894367E+03 8.7E+01   289 1.0E+00   28 T  T
+     99   4        9.8678208609E+03 1.1E+01   314 1.0E+00   49 T  T
+    100   4        9.8663182001E+03 4.3E+01   293 1.0E+00   11 F  T
+    101   4        9.8604352359E+03 7.2E+00   320 1.0E+00   23 T  T
+ 
+   Iter Phase Ninf     Objective     RGmax    NSB   Step InItr MX OK
+    102   4        9.8602208873E+03 5.8E-01   322 1.0E+00   23 F  T
+    103   4        9.8602207542E+03 2.3E-02   339 1.0E+00   15 F  T
+    104   4        9.8602207513E+03 1.6E-03   340 1.0E+00   13 F  T
+    105   4        9.8602207513E+03 2.0E-06   371 6.8E-01   21 T  T
+    106   4        9.8602207513E+03 6.3E-07   362 1.0E+00    2 F  T
+    107   4        9.8602207513E+03 5.7E-08   362
+ 
+ ** Optimal solution. Reduced gradient less than tolerance.
+ 
+--- Reading solution for model calib_step2_cps
+--- Executing after solve: elapsed 0:00:06.743
+--- hhcalib.gms(1128) 252 Mb
+--- Generating NLP model calib_step3_cps
+--- hhcalib.gms(1129) 254 Mb
+---   3,826 rows  18,106 columns  50,695 non-zeroes
+---   113,477 nl-code  18,105 nl-non-zeroes
+--- Range statistics (absolute non-zero finite values)
+--- RHS       [min, max] : [ 3.095E-04, 5.212E+02] - Zero values observed as well
+--- Bound     [min, max] : [ 1.000E-05, 1.000E-05] - Zero values observed as well
+--- Matrix    [min, max] : [ 1.390E-02, 5.463E+04] - Zero values observed as well
+--- hhcalib.gms(1129) 252 Mb
+--- Executing IPOPT (Solvelink=2): elapsed 0:00:07.493
+
+COIN-OR Ipopt    41.2.0 5110e5ff Nov 14, 2022          WEI x86 64bit/MS Window
+
+COIN-OR Interior Point Optimizer (Ipopt Library 3.14.10)
+written by A. Waechter.
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit https://github.com/coin-or/Ipopt
+******************************************************************************
+
+This is Ipopt version 3.14.10, running with linear solver MUMPS 5.5.1.
+
+Number of nonzeros in equality constraint Jacobian...:    26622
+Number of nonzeros in inequality constraint Jacobian.:        0
+Number of nonzeros in Lagrangian Hessian.............:    14790
+
+Total number of variables............................:    14790
+                     variables with only lower bounds:    14790
+                variables with lower and upper bounds:        0
+                     variables with only upper bounds:        0
+Total number of equality constraints.................:     3825
+Total number of inequality constraints...............:        0
+        inequality constraints with only lower bounds:        0
+   inequality constraints with lower and upper bounds:        0
+        inequality constraints with only upper bounds:        0
+
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   0  2.6834654e+04 3.57e+01 1.18e+00   0.0 0.00e+00    -  0.00e+00 0.00e+00   0
+   1  2.8636948e+04 5.32e+00 1.63e+01  -2.0 1.06e+01    -  7.37e-01 8.51e-01h  1
+   2  2.9183396e+04 1.28e+00 5.65e+01  -2.7 1.68e+00    -  9.38e-01 7.59e-01h  1
+   3  2.9062335e+04 3.80e-01 9.83e+01  -2.9 1.89e+00    -  9.18e-01 7.03e-01h  1
+   4  2.8945664e+04 5.58e-02 2.22e+02  -2.7 9.65e-01    -  1.00e+00 8.53e-01h  1
+   5  2.8965246e+04 5.06e-08 3.27e+02  -2.8 3.55e-01    -  1.00e+00 1.00e+00h  1
+   6  2.8951079e+04 1.81e-08 3.35e+00  -3.3 2.23e-01    -  1.00e+00 1.00e+00f  1
+   7  2.8946178e+04 1.13e-08 5.93e-01  -4.2 1.52e-01    -  1.00e+00 1.00e+00f  1
+   8  2.8945981e+04 1.09e-09 2.77e-02  -5.7 2.81e-02    -  1.00e+00 1.00e+00f  1
+   9  2.8945981e+04 1.52e-11 1.09e-04  -7.3 1.03e-03    -  1.00e+00 1.00e+00h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  10  2.8945981e+04 2.27e-13 5.77e-10 -11.0 1.54e-05    -  1.00e+00 1.00e+00h  1
+
+Number of Iterations....: 10
+
+                                   (scaled)                 (unscaled)
+Objective...............:   5.2983756900827309e+01    2.8945981132774530e+04
+Dual infeasibility......:   5.7702341104033661e-10    3.1523828709251055e-07
+Constraint violation....:   2.2737367544323206e-13    2.2737367544323206e-13
+Variable bound violation:   0.0000000000000000e+00    0.0000000000000000e+00
+Complementarity.........:   1.0471913801802711e-11    5.7209952079915546e-09
+Overall NLP error.......:   5.7702341104033661e-10    3.1523828709251055e-07
+
+
+Number of objective function evaluations             = 11
+Number of objective gradient evaluations             = 11
+Number of equality constraint evaluations            = 11
+Number of inequality constraint evaluations          = 0
+Number of equality constraint Jacobian evaluations   = 1
+Number of inequality constraint Jacobian evaluations = 0
+Number of Lagrangian Hessian evaluations             = 10
+Total seconds in IPOPT                               = 2.113
+
+EXIT: Optimal Solution Found.
+--- Reading solution for model calib_step3_cps
+--- Executing after solve: elapsed 0:00:10.259
+--- hhcalib.gms(1184) 253 Mb
+--- GDX File (execute_unload) C:\Users\ASchreib\git\CGE\build\data\windc_build\household\gdx\calibrated_hhdata_static_cps_all_2016.gdx
+*** Status: Normal completion
+--- Job hhcalib.gms Stop 09/25/24 15:18:38 elapsed 0:00:10.928

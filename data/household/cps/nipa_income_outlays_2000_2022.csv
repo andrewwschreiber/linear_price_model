@@ -1,0 +1,990 @@
+"TableName","SeriesCode","LineNumber","LineDescription","METRIC_NAME","CL_UNIT","UNIT_MULT","year","value"
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2000,8621299
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2001,8993143
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2002,9150049
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2003,9481755
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2004,10015873
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2005,10546102
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2006,11301996
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2007,11932119
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2008,12425679
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2009,12065682
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2010,12556628
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2011,13309571
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2012,13917794
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2013,14068770
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2014,14784074
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2015,15473741
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2016,15887651
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2017,16662756
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2018,17528192
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2019,18363160
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2020,19620082
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2021,21419498
+"T20100","A065RC","1","Personal income","Current Dollars","Level","6",2022,22088920
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2000,5847146
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2001,6038348
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2002,6135115
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2003,6353606
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2004,6719488
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2005,7066107
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2006,7479676
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2007,7878475
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2008,8056826
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2009,7759019
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2010,7925369
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2011,8226175
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2012,8567363
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2013,8835039
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2014,9250208
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2015,9699419
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2016,9966108
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2017,10424372
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2018,10957404
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2019,11446611
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2020,11596428
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2021,12557025
+"T20100","A033RC","2","Compensation of employees","Current Dollars","Level","6",2022,13436720
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2000,4824946
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2001,4953635
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2002,4995843
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2003,5138269
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2004,5421014
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2005,5691379
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2006,6056739
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2007,6396392
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2008,6534095
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2009,6249110
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2010,6372510
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2011,6626182
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2012,6928124
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2013,7113994
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2014,7476332
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2015,7859482
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2016,8091239
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2017,8474410
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2018,8899824
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2019,9325144
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2020,9465660
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2021,10315597
+"T20100","A034RC","3","Wages and salaries","Current Dollars","Level","6",2022,11123119
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2000,4045159
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2001,4131637
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2002,4122977
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2003,4224317
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2004,4468675
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2005,4700059
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2006,5022214
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2007,5307847
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2008,5390244
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2009,5073887
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2010,5181336
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2011,5431331
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2012,5729815
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2013,5905988
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2014,6239431
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2015,6583727
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2016,6783210
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2017,7126207
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2018,7497950
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2019,7874807
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2020,7971079
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2021,8770498
+"T20100","A132RC","4","Private industries","Current Dollars","Level","6",2022,9498951
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2000,779787
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2001,821998
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2002,872866
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2003,913952
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2004,952339
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2005,991320
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2006,1034524
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2007,1088544
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2008,1143851
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2009,1175223
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2010,1191174
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2011,1194851
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2012,1198309
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2013,1208006
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2014,1236901
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2015,1275756
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2016,1308029
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2017,1348203
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2018,1401874
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2019,1450337
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2020,1494580
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2021,1545099
+"T20100","B202RC","5","Government","Current Dollars","Level","6",2022,1624168
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2000,1022200
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2001,1084714
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2002,1139272
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2003,1215337
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2004,1298474
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2005,1374728
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2006,1422938
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2007,1482083
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2008,1522730
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2009,1509910
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2010,1552859
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2011,1599993
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2012,1639238
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2013,1721044
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2014,1773876
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2015,1839937
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2016,1874870
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2017,1949962
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2018,2057580
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2019,2121468
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2020,2130768
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2021,2241427
+"T20100","A038RC","6","Supplements to wages and salaries","Current Dollars","Level","6",2022,2313601
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2000,676980
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2001,726727
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2002,773229
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2003,832793
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2004,889722
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2005,946666
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2006,975632
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2007,1020414
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2008,1051324
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2009,1051812
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2010,1083859
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2011,1107251
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2012,1125945
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2013,1194735
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2014,1227455
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2015,1270575
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2016,1293924
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2017,1345306
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2018,1432791
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2019,1470828
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2020,1472052
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2021,1534689
+"T20100","B040RC","7","Employer contributions for employee pension and insurance funds","Current Dollars","Level","6",2022,1548261
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2000,345220
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2001,357987
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2002,366043
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2003,382544
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2004,408752
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2005,428062
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2006,447306
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2007,461669
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2008,471406
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2009,458098
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2010,469000
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2011,492742
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2012,513293
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2013,526309
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2014,546421
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2015,569362
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2016,580946
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2017,604656
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2018,624789
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2019,650639
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2020,658716
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2021,706739
+"T20100","B039RC","8","Employer contributions for government social insurance","Current Dollars","Level","6",2022,765340
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2000,753559
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2001,831057
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2002,870133
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2003,897509
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2004,962895
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2005,979140
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2006,1050869
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2007,995398
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2008,960304
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2009,938126
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2010,1108503
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2011,1228337
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2012,1299922
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2013,1351739
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2014,1369965
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2015,1347722
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2016,1349214
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2017,1428634
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2018,1495331
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2019,1555775
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2020,1594019
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2021,1815266
+"T20100","A041RC","9","Proprietors' income with inventory valuation and capital consumption adjustments","Current Dollars","Level","6",2022,1873555
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2000,31194
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2001,32138
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2002,20305
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2003,37120
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2004,52391
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2005,47914
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2006,34301
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2007,41499
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2008,39526
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2009,27596
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2010,38696
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2011,63930
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2012,60980
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2013,87532
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2014,68487
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2015,55460
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2016,36024
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2017,41005
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2018,32131
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2019,33785
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2020,46344
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2021,75546
+"T20100","B042RC","10","Farm","Current Dollars","Level","6",2022,95925
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2000,722365
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2001,798919
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2002,849828
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2003,860390
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2004,910504
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2005,931226
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2006,1016569
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2007,953900
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2008,920779
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2009,910531
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2010,1069807
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2011,1164406
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2012,1238943
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2013,1264206
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2014,1301478
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2015,1292263
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2016,1313189
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2017,1387629
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2018,1463200
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2019,1521991
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2020,1547675
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2021,1739720
+"T20100","A045RC","11","Nonfarm","Current Dollars","Level","6",2022,1777630
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2000,183476
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2001,202403
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2002,208448
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2003,227098
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2004,242781
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2005,221105
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2006,181120
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2007,186259
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2008,290275
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2009,347592
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2010,433671
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2011,506541
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2012,534468
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2013,578687
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2014,598502
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2015,601351
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2016,618723
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2017,642028
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2018,671488
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2019,688432
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2020,738112
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2021,772259
+"T20100","A048RC","12","Rental income of persons with capital consumption adjustment","Current Dollars","Level","6",2022,870266
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2000,1455648
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2001,1461935
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2002,1402632
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2003,1435569
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2004,1498706
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2005,1636354
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2006,1899026
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2007,2105303
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2008,2151519
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2009,1838471
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2010,1747679
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2011,1906485
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2012,2103551
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2013,1983244
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2014,2177401
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2015,2344590
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2016,2415419
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2017,2610966
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2018,2789376
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2019,2950022
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2020,2912422
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2021,3180726
+"T20100","W210RC","13","Personal income receipts on assets","Current Dollars","Level","6",2022,3474032
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2000,1069278
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2001,1087525
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2002,1001156
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2003,1004371
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2004,939342
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2005,1081326
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2006,1215446
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2007,1325248
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2008,1345849
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2009,1272829
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2010,1211054
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2011,1216066
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2012,1271809
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2013,1201595
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2014,1260374
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2015,1347722
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2016,1387973
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2017,1466672
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2018,1554473
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2019,1603518
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2020,1508953
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2021,1480270
+"T20100","A064RC","14","Personal interest income","Current Dollars","Level","6",2022,1634870
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2000,386370
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2001,374410
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2002,401476
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2003,431198
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2004,559365
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2005,555028
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2006,683580
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2007,780055
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2008,805670
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2009,565642
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2010,536625
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2011,690419
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2012,831742
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2013,781648
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2014,917027
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2015,996868
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2016,1027446
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2017,1144294
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2018,1234903
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2019,1346503
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2020,1403470
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2021,1700456
+"T20100","B703RC","15","Personal dividend income","Current Dollars","Level","6",2022,1839162
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2000,1087311
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2001,1192597
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2002,1285216
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2003,1347256
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2004,1421242
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2005,1516743
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2006,1613843
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2007,1728094
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2008,1955114
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2009,2146744
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2010,2325153
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2011,2358685
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2012,2363017
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2013,2424348
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2014,2541550
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2015,2685407
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2016,2777022
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2017,2855685
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2018,2976276
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2019,3147101
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2020,4228832
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2021,4653739
+"T20100","A577RC","16","Personal current transfer receipts","Current Dollars","Level","6",2022,4139175
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2000,1044876
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2001,1145830
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2002,1251022
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2003,1320994
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2004,1404471
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2005,1490917
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2006,1593029
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2007,1697335
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2008,1919349
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2009,2107728
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2010,2281411
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2011,2310139
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2012,2322586
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2013,2385910
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2014,2498625
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2015,2635146
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2016,2717282
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2017,2807432
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2018,2925973
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2019,3090760
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2020,4181099
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2021,4561016
+"T20100","A063RC","17","Government social benefits to persons","Current Dollars","Level","6",2022,4013760
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2000,401393
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2001,425084
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2002,446909
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2003,463531
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2004,485512
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2005,512728
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2006,544096
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2007,575653
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2008,605542
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2009,664470
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2010,690174
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2011,713261
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2012,762139
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2013,799044
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2014,834640
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2015,871793
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2016,896472
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2017,926072
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2018,972412
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2019,1030743
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2020,1077928
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2021,1114600
+"T20100","W823RC","18","Social security","Current Dollars","Level","6",2022,1211504
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2000,219117
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2001,242580
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2002,259736
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2003,276708
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2004,304359
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2005,332127
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2006,399107
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2007,428201
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2008,461613
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2009,492951
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2010,513390
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2011,535609
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2012,554746
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2013,572843
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2014,600007
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2015,634939
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2016,662108
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2017,691829
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2018,733569
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2019,790499
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2020,820365
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2021,878902
+"T20100","W824RC","19","Medicare","Current Dollars","Level","6",2022,935017
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2000,199493
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2001,227259
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2002,250009
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2003,264526
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2004,289812
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2005,304414
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2006,299100
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2007,324189
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2008,338333
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2009,369610
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2010,396868
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2011,406022
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2012,417539
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2013,439983
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2014,490872
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2015,535913
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2016,562783
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2017,573731
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2018,589766
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2019,614035
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2020,657605
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2021,736520
+"T20100","W729RC","20","Medicaid","Current Dollars","Level","6",2022,814387
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2000,20741
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2001,31899
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2002,53480
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2003,53175
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2004,36425
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2005,31775
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2006,30366
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2007,32740
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2008,51148
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2009,131211
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2010,138857
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2011,107163
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2012,83615
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2013,62499
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2014,35463
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2015,32545
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2016,32038
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2017,30186
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2018,27618
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2019,27477
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2020,528590
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2021,317322
+"T20100","W825RC","21","Unemployment insurance","Current Dollars","Level","6",2022,23807
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2000,25004
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2001,26597
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2002,29542
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2003,31829
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2004,34050
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2005,36388
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2006,38871
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2007,41671
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2008,45039
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2009,51537
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2010,57962
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2011,63267
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2012,70113
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2013,79058
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2014,84162
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2015,92568
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2016,96773
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2017,111408
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2018,119705
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2019,129833
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2020,144898
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2021,152984
+"T20100","W826RC","22","Veterans' benefits","Current Dollars","Level","6",2022,168750
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2000,179128
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2001,192411
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2002,211347
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2003,231225
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2004,254313
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2005,273485
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2006,281489
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2007,294881
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2008,417674
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2009,397950
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2010,484162
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2011,484817
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2012,434433
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2013,432482
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2014,453481
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2015,467387
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2016,467108
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2017,474206
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2018,482903
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2019,498173
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2020,951712
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2021,1360688
+"T20100","W827RC","23","Other","Current Dollars","Level","6",2022,860295
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2000,42435
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2001,46767
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2002,34193
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2003,26261
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2004,16772
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2005,25826
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2006,20814
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2007,30759
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2008,35765
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2009,39016
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2010,43741
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2011,48546
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2012,40431
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2013,38438
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2014,42925
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2015,50261
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2016,59740
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2017,48253
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2018,50303
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2019,56340
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2020,47733
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2021,92723
+"T20100","B931RC","24","Other current transfer receipts, from business (net)","Current Dollars","Level","6",2022,125415
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2000,705840
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2001,733197
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2002,751496
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2003,779283
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2004,829240
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2005,873347
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2006,922538
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2007,961410
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2008,988358
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2009,964272
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2010,983747
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2011,916651
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2012,950526
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2013,1104286
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2014,1153553
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2015,1204749
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2016,1238836
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2017,1298929
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2018,1361683
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2019,1424780
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2020,1449731
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2021,1559517
+"T20100","A061RC","25","Less: Contributions for government social insurance, domestic","Current Dollars","Level","6",2022,1704828
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2000,1236329
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2001,1239047
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2002,1052178
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2003,1003538
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2004,1048745
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2005,1212456
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2006,1356963
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2007,1492489
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2008,1507501
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2009,1152378
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2010,1237620
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2011,1453691
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2012,1509514
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2013,1677535
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2014,1785680
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2015,1940888
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2016,1958752
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2017,2048829
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2018,2074153
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2019,2198663
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2020,2245277
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2021,2705098
+"T20100","W055RC","26","Less: Personal current taxes","Current Dollars","Level","6",2022,3244907
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2000,7384970
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2001,7754096
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2002,8097871
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2003,8478217
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2004,8967128
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2005,9333646
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2006,9945033
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2007,10439630
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2008,10918179
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2009,10913304
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2010,11319008
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2011,11855880
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2012,12408280
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2013,12391235
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2014,12998394
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2015,13532854
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2016,13928899
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2017,14613927
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2018,15454039
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2019,16164498
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2020,17374805
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2021,18714400
+"T20100","A067RC","27","Equals: Disposable personal income","Current Dollars","Level","6",2022,18844013
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2000,7068147
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2001,7390940
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2002,7646275
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2003,8038323
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2004,8550079
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2005,9124471
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2006,9669084
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2007,10176205
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2008,10466706
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2009,10288366
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2010,10647583
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2011,11079596
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2012,11431755
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2013,11775539
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2014,12286398
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2015,12742281
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2016,13182701
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2017,13772281
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2018,14457384
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2019,14986339
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2020,14715795
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2021,16618700
+"T20100","A068RC","28","Less: Personal outlays","Current Dollars","Level","6",2022,18277916
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2000,6767179
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2001,7073801
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2002,7348941
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2003,7740749
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2004,8231960
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2005,8769066
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2006,9277236
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2007,9746594
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2008,10050083
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2009,9891218
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2010,10260256
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2011,10698857
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2012,11047363
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2013,11388233
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2014,11874450
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2015,12297438
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2016,12726849
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2017,13290626
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2018,13934442
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2019,14437543
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2020,14225657
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2021,16113945
+"T20100","DPCERC","29","Personal consumption expenditures","Current Dollars","Level","6",2022,17690841
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2000,217745
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2001,225645
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2002,200588
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2003,196480
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2004,207268
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2005,237307
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2006,266919
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2007,291243
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2008,271998
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2009,252838
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2010,242333
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2011,229945
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2012,229605
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2013,229501
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2014,243729
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2015,263485
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2016,272765
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2017,290384
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2018,321327
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2019,341200
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2020,287483
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2021,277797
+"T20100","B069RC","30","Personal interest payments","Current Dollars","Level","6",2022,334448
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2000,83222
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2001,91494
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2002,96746
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2003,101094
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2004,110851
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2005,118098
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2006,124929
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2007,138369
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2008,144624
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2009,144310
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2010,144994
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2011,150794
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2012,154787
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2013,157804
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2014,168219
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2015,181358
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2016,183087
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2017,191271
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2018,201615
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2019,207596
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2020,202655
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2021,226957
+"T20100","W211RC","31","Personal current transfer payments","Current Dollars","Level","6",2022,252628
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2000,48750
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2001,52921
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2002,56380
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2003,60509
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2004,66899
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2005,71625
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2006,75286
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2007,79178
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2008,80971
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2009,80057
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2010,79404
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2011,82170
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2012,86300
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2013,87003
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2014,91948
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2015,98830
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2016,101646
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2017,104588
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2018,111269
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2019,114581
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2020,109321
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2021,122787
+"T20100","W062RC","32","To government","Current Dollars","Level","6",2022,131521
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2000,34472
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2001,38573
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2002,40366
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2003,40585
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2004,43952
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2005,46473
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2006,49643
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2007,59191
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2008,63654
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2009,64253
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2010,65590
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2011,68624
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2012,68487
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2013,70801
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2014,76271
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2015,82529
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2016,81441
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2017,86683
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2018,90346
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2019,93015
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2020,93334
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2021,104171
+"T20100","B070RC","33","To the rest of the world (net)","Current Dollars","Level","6",2022,121107
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2000,316823
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2001,363156
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2002,451596
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2003,439894
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2004,417049
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2005,209175
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2006,275950
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2007,263425
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2008,451473
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2009,624938
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2010,671425
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2011,776284
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2012,976525
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2013,615697
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2014,711996
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2015,790573
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2016,746198
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2017,841646
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2018,996655
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2019,1178158
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2020,2659010
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2021,2095700
+"T20100","A071RC","34","Equals: Personal saving","Current Dollars","Level","6",2022,566096
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2000,4.3
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2001,4.7
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2002,5.6
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2003,5.2
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2004,4.7
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2005,2.2
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2006,2.8
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2007,2.5
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2008,4.1
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2009,5.7
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2010,5.9
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2011,6.5
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2012,7.9
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2013,5
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2014,5.5
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2015,5.8
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2016,5.4
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2017,5.8
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2018,6.4
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2019,7.3
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2020,15.3
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2021,11.2
+"T20100","A072RC","35","Personal saving as a percentage of disposable personal income","Ratio","Level","0",2022,3
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2000,10205604
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2001,10358990
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2002,10308983
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2003,10443064
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2004,10766533
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2005,10994349
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2006,11473412
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2007,11782023
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2008,11742289
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2009,11154770
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2010,11303806
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2011,11800056
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2012,12222871
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2013,12157400
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2014,12605430
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2015,13143311
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2016,13339491
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2017,13807071
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2018,14260013
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2019,14700259
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2020,14708618
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2021,15385380
+"T20100","W875RX","36","Personal income excluding current transfer receipts, Billions of chained (2017) dollars","Chained Dollars","Level","6",2022,15459172
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2000,10003742
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2001,10297305
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2002,10614442
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2003,10884329
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2004,11233162
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2005,11364855
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2006,11777627
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2007,12054064
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2008,12244267
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2009,12273027
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2010,12505319
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2011,12775226
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2012,13125723
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2013,12937113
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2014,13383706
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2015,13908497
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2016,14172046
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2017,14613927
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2018,15144040
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2019,15616547
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2020,16604199
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2021,17173583
+"T20100","A067RX","37","Total, Billions of chained (2017) dollars","Chained Dollars","Level","6",2022,16229358
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2000,26151
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2001,27186
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2002,28122
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2003,29172
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2004,30577
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2005,31533
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2006,33281
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2007,34603
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2008,35851
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2009,35520
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2010,36532
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2011,37964
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2012,39426
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2013,39077
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2014,40671
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2015,42013
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2016,42910
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2017,44710
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2018,47002
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2019,48907
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2020,52359
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2021,56283
+"T20100","A229RC","38","Current dollars","Ratio","Level","0",2022,56356
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2000,35424
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2001,36102
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2002,36861
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2003,37451
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2004,38304
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2005,38396
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2006,39414
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2007,39954
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2008,40205
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2009,39946
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2010,40361
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2011,40908
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2012,41705
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2013,40798
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2014,41876
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2015,43179
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2016,43659
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2017,44710
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2018,46059
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2019,47249
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2020,50037
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2021,51649
+"T20100","A229RX","39","Chained (2017) dollars","Ratio","Level","0",2022,48537
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2000,282398
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2001,285225
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2002,287955
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2003,290626
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2004,293262
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2005,295993
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2006,298818
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2007,301696
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2008,304543
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2009,307240
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2010,309839
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2011,312295
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2012,314725
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2013,317099
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2014,319601
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2015,322113
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2016,324609
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2017,326860
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2018,328794
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2019,330513
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2020,331840
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2021,332505
+"T20100","B230RC","40","Population (midperiod, thousands)","Persons","Level","3",2022,334372
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2000,7.5
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2001,5
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2002,4.4
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2003,4.7
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2004,5.8
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2005,4.1
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2006,6.6
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2007,5
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2008,4.6
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2009,0
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2010,3.7
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2011,4.7
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2012,4.7
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2013,-0.1
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2014,4.9
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2015,4.1
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2016,2.9
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2017,4.9
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2018,5.7
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2019,4.6
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2020,7.5
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2021,7.7
+"T20100","A067RP","41","Disposable personal income, current dollars","Current Dollars","Percent change, annual rate","0",2022,0.7
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2000,7.9
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2001,4.6
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2002,3.5
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2003,5.1
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2004,6.4
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2005,6.7
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2006,6
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2007,5.2
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2008,2.9
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2009,-1.7
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2010,3.5
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2011,4.1
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2012,3.2
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2013,3
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2014,4.3
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2015,3.7
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2016,3.5
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2017,4.5
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2018,5
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2019,3.7
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2020,-1.8
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2021,12.9
+"T20100","PA000969","42","Personal outlays, current dollars","Current Dollars","Percent change, annual rate","0",2022,10
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2000,4.9
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2001,2.9
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2002,3.1
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2003,2.5
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2004,3.2
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2005,1.2
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2006,3.6
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2007,2.3
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2008,1.6
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2009,0.2
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2010,1.9
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2011,2.2
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2012,2.7
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2013,-1.4
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2014,3.5
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2015,3.9
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2016,1.9
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2017,3.1
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2018,3.6
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2019,3.1
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2020,6.3
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2021,3.4
+"T20100","A067RL","43","Disposable personal income, chained (2017) dollars","Chained Dollars","Percent change, annual rate","0",2022,-5.5

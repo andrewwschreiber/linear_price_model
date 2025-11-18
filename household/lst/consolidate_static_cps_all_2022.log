@@ -1,0 +1,38 @@
+--- Job consolidate Start 03/24/25 11:42:41 41.2.0 5110e5ff WEX-WEI x86 64bit/MS Windows
+--- Applying:
+    C:\PROGRA~1\GAMS\41.2\gmsprmNT.txt
+--- GAMS Parameters defined
+    Input C:\Users\ASchreib\git\windc_in_sage\household\consolidate.gms
+    Output C:\Users\ASchreib\git\windc_in_sage\household\lst\consolidate_static_cps_all_2022.lst
+    ScrDir C:\Users\ASchreib\git\windc_in_sage\household\225b\
+    SysDir C:\PROGRA~1\GAMS\41.2\
+    LogOption 4
+    LogFile C:\Users\ASchreib\git\windc_in_sage\household\lst\consolidate_static_cps_all_2022.log
+    --year 2022
+    --hhdata cps
+    --invest static
+    --capital_ownership all
+Licensee: Small MUD-5 User License                       G221114|0002CO-WIN
+          U. S. EPA, Office of Air Quality Planning and StandardsDC15048-S4
+          C:\Users\ASchreib\OneDrive - Environmental Protection Agency (EPA)\Documents\GAMS\gamslice.txt
+          License Admin: Alexander Macpherson, macpherson.alex@epa.gov     
+Processor information: 1 socket(s), 4 core(s), and 8 thread(s) available
+GAMS 41.2.0   Copyright (C) 1987-2022 GAMS Development. All rights reserved
+--- Starting compilation
+--- consolidate.gms(38) 2 Mb
+--- . windc_coredata.gms(26) 2 Mb
+--- GDXin=C:\Users\ASchreib\git\windc_in_sage\core\WiNDCdatabase.gdx
+--- GDX File ($gdxIn) C:\Users\ASchreib\git\windc_in_sage\core\WiNDCdatabase.gdx
+--- . windc_coredata.gms(160) 227 Mb
+--- consolidate.gms(46) 227 Mb
+--- GDXin=C:\Users\ASchreib\git\windc_in_sage\household\gdx\capital_tax_rates.gdx
+--- GDX File ($gdxIn) C:\Users\ASchreib\git\windc_in_sage\household\gdx\capital_tax_rates.gdx
+--- consolidate.gms(67) 227 Mb
+--- GDXin=C:\Users\ASchreib\git\windc_in_sage\household\gdx\calibrated_hhdata_static_cps_all_2022.gdx
+--- GDX File ($gdxIn) C:\Users\ASchreib\git\windc_in_sage\household\gdx\calibrated_hhdata_static_cps_all_2022.gdx
+--- consolidate.gms(180) 227 Mb
+--- Starting execution: elapsed 0:00:01.767
+--- consolidate.gms(283) 237 Mb
+--- GDX File (execute_unload) C:\Users\ASchreib\git\windc_in_sage\household\datasets\WiNDC_cps_static_all_2022.gdx
+*** Status: Normal completion
+--- Job consolidate.gms Stop 03/24/25 11:42:43 elapsed 0:00:01.920
