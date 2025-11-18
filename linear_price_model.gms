@@ -1,5 +1,12 @@
 $title linear price model
 
+* linear price model formulated as a linear program (as opposed to use of linear
+* algebra as in Miller and Blair). this framework should be exactly equivalent
+* to conventional (I-A) techniques and lends itself well to implementing possible
+* future extensions.
+
+
+
 * -----------------------------------------------------------------------------
 * set options
 * -----------------------------------------------------------------------------
@@ -160,17 +167,14 @@ display mkt_report;
 
 
 * -----------------------------------------------------------------------------
-* linear price model
+* linear price model (fixed quantity, endogenous price model)
 * -----------------------------------------------------------------------------
 
 * initialize shock parameter
-
 parameter
     cost0(r,s)     cost shock;
 
 cost0(r,s) = 0;
-
-* fixed quantity, endogenous price model
 
 nonnegative
 variables
@@ -184,34 +188,40 @@ variables
     pl(r)          wage rate,
     rk             capital rental rate;
 
+variables
+    obj            dummy objective value;
+
 equations
     zpe_y(r,s)     zero profit: production,
-    zpe_x(r,s)     zero profit: supply,
     zpe_a(r,s)     zero profit: armington composite,
-    zpe_ms(r,m)    zero profit: margins,
-    mkte_pn(s)     market clearance: national price;
+    pd_def(r,s)    domestic price,
+    pn_def(s)      national price,
+    pmarg_def(r,m) margin price,
+    objdum         dummy objective function;
 
-zpe_y(r,s)$sum(ss, ys0(r,s,ss))..
+zpe_y(r,s)..
     py(r,s)*(1-ty0(r,s))*sum(ss, ys0(r,s,ss)) =e=
       sum(ss, pa(r,ss)*id0(r,ss,s)) + pl(r)*ld0(r,s) + rk*(1+tk0(r))*kd0(r,s) +
       cost0(r,s);
 
-zpe_x(r,s)$sum(ss, ys0(r,ss,s))..
-    sum(ss, py(r,ss)*ys0(r,ss,s)) =e=
-      px(r,s)*(x0(r,s)-rx0(r,s)) + pd(r,s)*(xn0(r,s) + xd0(r,s));
-
-zpe_a(r,s)$a0(r,s)..
+zpe_a(r,s)..
     (1-ta0(r,s))*pa(r,s)*a0(r,s) + px(r,s)*rx0(r,s)  =e=
-      pd(r,s)*(nd0(r,s) + dd0(r,s)) + (1+tm0(r,s))*pm(r,s)*m0(r,s) +
+      pn(s)*nd0(r,s) + pd(r,s)*dd0(r,s) + (1+tm0(r,s))*pm(r,s)*m0(r,s) +
       sum(m, pmarg(r,m)*md0(r,m,s));
 
-zpe_ms(r,m)$sum(s, md0(r,m,s))..
-    sum(s, pmarg(r,m)*md0(r,m,s)) =e= sum(s, pd(r,s)*(nm0(r,s,m) + dm0(r,s,m)));
+pd_def(r,s)..
+    pd(r,s)*sum(ss, ys0(r,ss,s)) =e= sum(ss, py(r,ss)*ys0(r,ss,s));
 
-mkte_pn(s)..
-    pn(s)*sum(r, xd0(r,s)) =e= sum(r, py(r,s)*xd0(r,s));
+pn_def(s)..
+    pn(s)*sum(r, xn0(r,s)) =e= sum(r, pd(r,s)*xn0(r,s));
 
-model linear_price_model /zpe_y.py, zpe_x.pd, zpe_a.pa, zpe_ms.pmarg/;
+pmarg_def(r,m)..
+    sum(s, pmarg(r,m)*md0(r,m,s)) =e= sum(s, pn(s)*nm0(r,s,m) + pd(r,s)*dm0(r,s,m));
+
+objdum..
+    obj =e= 1;
+
+model linear_price_model /zpe_y, zpe_a, pd_def, pn_def, pmarg_def, objdum/;
 
 * fix prices that are assumed to be exogenous to the model
 pl.fx(r) = 1;
@@ -219,16 +229,26 @@ rk.fx = 1;
 px.fx(r,s) = 1;
 pm.fx(r,s) = 1;
 pd.fx(r,s)$(not sum(ss, ys0(r,ss,s))) = 1;
+pn.fx(s)$(not sum(r, xn0(r,s))) = 1;
+pmarg.fx(r,m)$(not sum(s, md0(r,m,s))) = 1;
 
 * set level values
 py.l(r,s) = 1;
 pa.l(r,s) = 1;
 pd.l(r,s) = 1;
+pn.l(s) = 1;
 pmarg.l(r,m) = 1;
 
-linear_price_model.iterlim = 0;
-solve linear_price_model using MCP;
+* solve the model to check calibration (and save calibrated prices)
+* slightly imbalanced given the tighteness in the underlying windc data
+solve linear_price_model using LP minimizing obj;
 
+parameter
+    pa0(r,s)    baseline demand prices,
+    py0(r,s)    baseline output prices;
+
+pa0(r,s) = pa.l(r,s);
+py0(r,s) = py.l(r,s);
 
 
 * -----------------------------------------------------------------------------
@@ -238,8 +258,17 @@ solve linear_price_model using MCP;
 * run 1 billion dollar shock, distributed by production on utility sector
 cost0(r,'uti') = 1 * sum(ss, ys0(r,'uti',ss)) / sum((ss,rr), ys0(rr,'uti',ss));
 
-linear_price_model.iterlim = 1000;
-solve linear_price_model using MCP;
+* solve the model as a linear program with dummy objective function
+* could equivalently use CNS, but the LP formulation is more extensible
+solve linear_price_model using LP minimizing obj;
+
+* report results
+parameter
+    report    report on price impacts;
+
+report(r,s,'py')$py0(r,s) = 100 * (py.l(r,s)/py0(r,s) - 1);
+report(r,s,'pa')$pa0(r,s) = 100 * (pa.l(r,s)/pa0(r,s) - 1);
+display report;
 
 
 
