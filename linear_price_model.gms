@@ -216,7 +216,7 @@ pn_def(s)..
     pn(s)*sum(r, xn0(r,s)) =e= sum(r, pd(r,s)*xn0(r,s));
 
 pmarg_def(r,m)..
-    sum(s, pmarg(r,m)*md0(r,m,s)) =e= sum(s, pn(s)*nm0(r,s,m) + pd(r,s)*dm0(r,s,m));
+    pmarg(r,m) * sum(s, md0(r,m,s)) =e= sum(s, pn(s)*nm0(r,s,m) + pd(r,s)*dm0(r,s,m));
 
 objdum..
     obj =e= 1;
